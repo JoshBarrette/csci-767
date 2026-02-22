@@ -1,0 +1,10 @@
+id
+playerName
+statsYear
+gamesPlayed
+minutesPerGame
+pointsPerGame
+reboundsPerGame
+assistsPerGame
+blocksPerGame
+stealsPerGame

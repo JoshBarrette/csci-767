@@ -26,7 +26,7 @@ def reference():
             playerName = cells[0].get_text()
             playerAge = cells[1].get_text()
             playerTeam = cells[2].get_text()
-            statsYear = 2024
+            statsYear = year
             position = cells[3].get_text()
             gamesPlayed = cells[4].get_text()
             gamesStarted = cells[5].get_text()
